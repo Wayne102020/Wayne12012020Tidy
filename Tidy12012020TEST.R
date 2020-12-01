@@ -28,5 +28,5 @@ View(pizza)
 
 pizza<-pizza%>% #take original data
   
-
+test_image()
 
